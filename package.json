@@ -1,0 +1,21 @@
+{
+  "name": "my-first-npm-pkg",
+  "version": "1.0.1",
+  "description": "First package created for the how-to-npm tutorial series",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "George Neophytou",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "george4n"
+  },
+  "keywords": [
+    "how-to-npm",
+    "george4n"
+  ],
+  "dependencies": {},
+  "devDependencies": {}
+}
